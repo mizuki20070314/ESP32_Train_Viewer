@@ -58,3 +58,4 @@ ESP32にOLEDディスプレイとボタンを接続し、Wi-Fi経由でNAVITIME�
 **開発者:** Mizuki
 
 ---
+<img width="1404" height="1398" alt="image" src="https://github.com/user-attachments/assets/a75b6948-8ec5-4779-affa-84e620b59309" />
