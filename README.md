@@ -25,7 +25,7 @@ ESP32 + OLED による実際の表示例です。
 <p align="center">
   <img width="600"
        alt="ESP32 Train Schedule Viewer Display"
-       src="https://github.com/user-attachments/assets/a75b6948-8ec5-4779-affa-84e620b59309">
+       src="https://github.com/user-attachments/assets/fc9f5972-7523-4f3e-b8c9-3a0ef61e2907">
 </p>
 
 表示内容：
